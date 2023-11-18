@@ -1,0 +1,24 @@
+You tube link - https://www.youtube.com/watch?v=yPyHmTjQZZQ
+
+Components :
+Esp32, connecting wire - related USB cable
+Soil Moisture Sensor - D34
+DHT11 - Temperature and Humidity sensor - D4
+PIR Motion Sensor - detects obstacle - D?
+Buzzer
+Relay module - 5V - D26
+Submersible DC Motor Pump - 3-5V
+9V Battery
+Bug Converter - controls output voltage , aniclock wise - reduces the voltage , clock wise - increases the voltage in potentiometer.
+female to female, male to male, male to female connectors - jumper wires
+
+Points to be noted
+- Power Supply should be given same to the motor as it required , not more, not less.
+- The project is just a prototype , it takes time to process and turn on/off
+- In real time, these components are not used ,look digikey website(industrial products)
+- the motor should not turn on, when it is not kept in water.
+- 
+
+
+Guide:
+Nara Sreekanth Sir - CSE Dept.
